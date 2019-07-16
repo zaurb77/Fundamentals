@@ -10,7 +10,7 @@ namespace Fundamentals
   {
     static void Main(string[] args)
     {
-      //HELLO GIT
+      //hello github
     }
   }
 }
