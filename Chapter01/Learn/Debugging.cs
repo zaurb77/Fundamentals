@@ -10,7 +10,7 @@ namespace Fundamentals.Chapter01.Learn
   {
     public static void GenerateException()
     {
-      throw new NotImplementedException("Intended exception");    // Ctrl+F5 to start running without debugging
+      //throw new NotImplementedException("Intended exception");    // Ctrl+F5 to start running without debugging
       Console.WriteLine("Hello C#");
       Console.ReadKey();
     }

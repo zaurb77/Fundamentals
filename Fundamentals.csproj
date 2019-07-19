@@ -44,12 +44,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Chapter01\Learn\Debugging.cs" />
+    <Compile Include="Chapter02\Learn\Decimals.cs" />
     <Compile Include="Chapter02\Learn\Variables.cs" />
     <Compile Include="Chapter02\Learn\VariablesBoolean.cs" />
     <Compile Include="Chapter02\Learn\VariablesChar.cs" />
     <Compile Include="Chapter02\Learn\VariablesNullable.cs" />
     <Compile Include="Chapter02\Learn\VariablesObject.cs" />
     <Compile Include="Chapter02\Learn\VariablesStrings.cs" />
+    <Compile Include="Chapter03\Excercises\Excercise01.cs" />
+    <Compile Include="Chapter03\Excercises\Exercise02.cs" />
+    <Compile Include="Chapter03\Excercises\Exercise03.cs" />
+    <Compile Include="Chapter03\Excercises\Exercise04.cs" />
+    <Compile Include="Chapter03\Excercises\Exercise05.cs" />
+    <Compile Include="Chapter03\Learn\Expressions.cs" />
+    <Compile Include="Chapter03\Learn\Operators.cs" />
+    <Compile Include="Chapter03\Learn\TypeConversion.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -59,8 +68,6 @@
   <ItemGroup>
     <Folder Include="Chapter01\Excercises\" />
     <Folder Include="Chapter02\Excercises\" />
-    <Folder Include="Chapter3\Excercises\" />
-    <Folder Include="Chapter3\Learn\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
